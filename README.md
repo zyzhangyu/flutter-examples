@@ -19,7 +19,13 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 ## Example apps
 
 1.  [Simple Material App](/simple_material_app) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/simple_material_app) 这是一个简单的hello world标签的flutter app，不需要学习！
-1.  [Using Theme](/using_theme) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_theme)
+
+***
+2.  [Using Theme](/using_theme) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_theme)
+
+这个是教你使用theme设置主题的一个app，在app程序的一开始设置themedata就好，后面如果有些局部想覆盖或者使用另外的主题，只需要重写themedata就好，重写有两种方法，这个使用的时候，可以回到这个app来查看。
+
+***
 1.  [Stateless Widgets](/stateless_widgets) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/stateless_widgets)
 1.  [Stateful Widget](/stateful_widget) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/stateful_widget)
 1.  [Using EditText](/using_edittext) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_edittext)
