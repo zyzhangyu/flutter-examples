@@ -9,7 +9,7 @@ Main repository containing all the example apps demonstrating features/functiona
 
 ### Featured In
 
-- [Official Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)
+- [Official Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)  点这个链接调到官方的一个集合demo库，然后里面第一个又回到这个项目，暂时还是不要点了！
 - [Flutter Weekly #11](https://mailchi.mp/5db146a7468b/flutter-weekly-11)
 
 Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](https://flutter.io/widgets/)] [[Dart Lang](https://flutter.io/bootstrap-into-dart/)]
