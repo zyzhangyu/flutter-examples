@@ -35,6 +35,14 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 stateful的创建方式和stateless 不太一样，但是也没有什么需要记忆的！
 ***
 1.  [Using EditText](/using_edittext) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_edittext)
+这也是一个简单的教程，但是我确犯了知名错误，不小心把main打成了mian，编译器的提示尽然是这个样子...
+
+E/flutter ( 7944): [ERROR:flutter/shell/common/engine.cc(172)] Could not prepare to run the isolate.
+E/flutter ( 7944): [ERROR:flutter/shell/common/engine.cc(119)] Engine not prepare and launch isolate.
+E/flutter ( 7944): [ERROR:flutter/shell/platform/android/android_shell_holder.cc(167)] Could not launch engine in configuration.
+I/Choreographer( 7944): Skipped 31 frames!  The application may be doing too much work on its main thread.
+
+***
 1.  [Load local image](/load_local_image) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_image)
 1.  [Load local json](/load_local_json) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_json)
 1.  [Using HTTP GET](/using_http_get) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_http_get)
