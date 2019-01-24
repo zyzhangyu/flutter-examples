@@ -31,6 +31,9 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 
 ***
 1.  [Stateful Widget](/stateful_widget) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/stateful_widget)
+这个教程很简单就是一个按钮和一个文本，点击按钮，文本改变，没什么特别需要注意的！
+stateful的创建方式和stateless 不太一样，但是也没有什么需要记忆的！
+***
 1.  [Using EditText](/using_edittext) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_edittext)
 1.  [Load local image](/load_local_image) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_image)
 1.  [Load local json](/load_local_json) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_json)
