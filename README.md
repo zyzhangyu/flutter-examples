@@ -27,6 +27,9 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 
 ***
 1.  [Stateless Widgets](/stateless_widgets) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/stateless_widgets)
+这个教程里面作者自己创建了一个statelesswidget名字叫做MyCard简单的学习了一下，怎么创建statelesswidget，这里还有一个概念也学习到了，那就是mainaxisalignment和crossaxisalignment。这个还是有点点收获的！
+
+***
 1.  [Stateful Widget](/stateful_widget) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/stateful_widget)
 1.  [Using EditText](/using_edittext) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_edittext)
 1.  [Load local image](/load_local_image) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_image)
