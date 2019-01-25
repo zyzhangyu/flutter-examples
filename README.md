@@ -63,6 +63,9 @@ I/Choreographer( 7944): Skipped 31 frames!  The application may be doing too muc
 实现了一个顶部的tabbar
 ***
 1.  [Using Bottom Navigation Bar](/using_bottom_nav_bar) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_bottom_nav_bar)
+
+底部导航栏----欸，和iOS不太一样！
+***
 1.  [Using Custom Fonts](/using_custom_fonts) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_custom_fonts)
 1.  [Using Gradient](/using_gradient) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_gradient)
 1.  [Navigation Drawer](/navigation_drawer) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/navigation_drawer)
