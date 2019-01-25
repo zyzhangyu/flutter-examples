@@ -57,6 +57,8 @@ I/Choreographer( 7944): Skipped 31 frames!  The application may be doing too muc
 这里面只有一个showalert的操作，也没有什么需要注意的！
 ***
 1.  [Using Stepper](/using_stepper) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_stepper)
+这是是一个分步器，例子太简单了，过
+***
 1.  [Using Tabs](/using_tabs) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_tabs)
 1.  [Using Bottom Navigation Bar](/using_bottom_nav_bar) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_bottom_nav_bar)
 1.  [Using Custom Fonts](/using_custom_fonts) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_custom_fonts)
