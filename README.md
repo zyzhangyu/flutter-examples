@@ -47,6 +47,8 @@ I/Choreographer( 7944): Skipped 31 frames!  The application may be doing too muc
 加载本地图片，难度指数0颗星！
 ***
 1.  [Load local json](/load_local_json) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/load_local_json)
+加载本地的json数据，这里面使用了两个东西一个是FutureBuilder，另一个是ListView 然后通过给count和item的方式来画列表。
+***
 1.  [Using HTTP GET](/using_http_get) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_http_get)
 1.  [Using Alert Dialog](/using_alert_dialog) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_alert_dialog)
 1.  [Using Stepper](/using_stepper) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_stepper)
