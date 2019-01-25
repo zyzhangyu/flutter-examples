@@ -70,6 +70,9 @@ I/Choreographer( 7944): Skipped 31 frames!  The application may be doing too muc
 自定义字体，作者在另一个文件写的实现，在main文件中直接调用了！
 **** 
 1.  [Using Gradient](/using_gradient) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_gradient)
+一个渐变着色器
+
+***
 1.  [Navigation Drawer](/navigation_drawer) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/navigation_drawer)
 1.  [Enable Splash Screen](/enabling_splash_screen) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/enabling_splash_screen)
 1.  [Using Listview](/using_listview) [![download](img/ic_download.png)](https://kinolien.github.com/gitzip/?download=https://github.com/nisrulz/flutter-examples/tree/master/using_listview)
